@@ -19,3 +19,14 @@ var contrato = "Declaro ...";
 //Booleano - Bool - Logico
 var verdadeiro = true;
 var falso = false;
+var cartao_esta_valido = true;
+
+//Null - Vazio
+var vazia = null;
+console.log(vazia);
+
+//Undefined - Nao definido
+var endereco;
+console.log(endereco);
+
+//Arrays - listas de itens 
