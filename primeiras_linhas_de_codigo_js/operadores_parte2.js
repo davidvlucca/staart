@@ -38,7 +38,7 @@ const sao_diferentes = nome_do_cartao3 != nome_do_site3;
 console.log(sao_diferentes);
 
 const saldo_do_banco = 100;
-const saque_do_banco = 200;
+const saque_do_banco = 20;
 
 const pode_sacar = saldo_do_banco >= saque_do_banco;
 console.log(pode_sacar)
